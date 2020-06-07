@@ -38,16 +38,3 @@
 #define NOTE_A5s 0x52
 #define NOTE_B5  0x53
 #define NOTE_C6  0x54
-
-/*
-const int keyboard_matrix[8][4] = {
-  {'NOTE_F3',  'NOTE_F3s', 'NOTE_G3',  'NOTE_G3s'},
-  {'NOTE_A3',  'NOTE_A3s', 'NOTE_B3',  'NOTE_C4'},
-  {'NOTE_C4s', 'NOTE_D4',  'NOTE_D4s', 'NOTE_E4'},
-  {'NOTE_F4',  'NOTE_F4s', 'NOTE_G4',  'NOTE_G4s'},
-  {'NOTE_A4',  'NOTE_A4s', 'NOTE_B4',  'NOTE_C5'},
-  {'NOTE_C5s', 'NOTE_D5',  'NOTE_D5s', 'NOTE_E5'},
-  {'NOTE_F5',  'NOTE_F5s', 'NOTE_G5',  'NOTE_G5s'},
-  {'NOTE_A5',  'NOTE_A5s', 'NOTE_B5',  'NOTE_C6'}
-};
-*/
